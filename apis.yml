@@ -1,0 +1,102 @@
+aid: talkspace
+name: Talkspace
+description: >-
+  Talkspace is a New York City-based online behavioral healthcare company
+  founded in 2012 by Oren Frank and Roni Frank that delivers virtual therapy,
+  psychiatry, and medication management through video, voice, messaging, and
+  live chat. The platform connects users with licensed therapists and
+  psychiatric providers across all 50 U.S. states, covering more than 150
+  mental health conditions including anxiety, depression, ADHD, bipolar
+  disorder, OCD, PTSD, insomnia, postpartum depression, and substance use.
+  Service lines include individual therapy for adults, teen therapy
+  (ages 13-17), couples therapy, psychiatry with prescription management,
+  and specialized programs for LGBTQIA+, military/veteran, and senior
+  populations, plus the women's mental health program Chapters. Talkspace is
+  in-network with major payers such as Aetna, Anthem, Cigna, Optum, Blue
+  Cross Blue Shield, TRICARE, and Medicare, and sells B2B solutions
+  (Talkspace for Business) to employers, payers, benefit consultants,
+  educational institutions, and government agencies. The company markets
+  Precision Therapy, an internal machine-learning and NLP system used to
+  match members to providers and surface clinical signal. Talkspace went
+  public on NASDAQ under ticker TALK on June 23, 2021 via a SPAC merger
+  with Hudson Executive Investment Corp, and was acquired by Universal
+  Health Services on March 9, 2026. Talkspace does not publish a public
+  developer API, SDK, or open-source repository; integrations with payers,
+  EAPs, and benefits platforms are delivered through private partnership
+  channels, and the platform is HIPAA, HITECH, and GDPR compliant.
+type: Index
+position: Provider
+access: 3rd-Party
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Behavioral Health
+  - Mental Health
+  - Online Therapy
+  - Telehealth
+  - Psychiatry
+  - Medication Management
+  - Teen Therapy
+  - Couples Therapy
+  - Employee Assistance
+  - Health Insurance
+  - HIPAA
+  - Public Company
+url: https://raw.githubusercontent.com/api-evangelist/talkspace/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.talkspace.com
+  - type: SignIn
+    url: https://app.talkspace.com
+  - type: FindTherapist
+    url: https://match.talkspace.com/dispatcher
+  - type: Therapy
+    url: https://www.talkspace.com/online-therapy
+  - type: TeenTherapy
+    url: https://www.talkspace.com/online-therapy/teens
+  - type: CouplesTherapy
+    url: https://www.talkspace.com/online-therapy/couples
+  - type: Psychiatry
+    url: https://www.talkspace.com/psychiatry
+  - type: Medications
+    url: https://www.talkspace.com/medications
+  - type: Chapters
+    url: https://www.talkspace.com/chapters
+  - type: Insurance
+    url: https://www.talkspace.com/insurance
+  - type: Business
+    url: https://business.talkspace.com
+  - type: Clinicians
+    url: https://www.talkspace.com/therapist-jobs
+  - type: Research
+    url: https://www.talkspace.com/research
+  - type: Reviews
+    url: https://www.talkspace.com/online-therapy/reviews
+  - type: Blog
+    url: https://www.talkspace.com/blog
+  - type: Press
+    url: https://www.talkspace.com/press
+  - type: InvestorRelations
+    url: https://investors.talkspace.com
+  - type: Careers
+    url: https://www.talkspace.com/careers
+  - type: PrivacyPolicy
+    url: https://www.talkspace.com/public/privacy-policy
+  - type: TermsOfUse
+    url: https://www.talkspace.com/public/terms
+  - type: Twitter
+    url: https://twitter.com/talkspace
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/talkspace
+  - type: Facebook
+    url: https://www.facebook.com/Talkspacetherapy
+  - type: Instagram
+    url: https://www.instagram.com/talkspace
+  - type: YouTube
+    url: https://www.youtube.com/user/talkspace
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
