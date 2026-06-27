@@ -49,7 +49,7 @@ apis: []
 common:
   - type: Website
     url: https://www.talkspace.com
-  - type: SignIn
+  - type: Login
     url: https://app.talkspace.com
   - type: FindTherapist
     url: https://match.talkspace.com/dispatcher
@@ -73,7 +73,7 @@ common:
     url: https://www.talkspace.com/therapist-jobs
   - type: Research
     url: https://www.talkspace.com/research
-  - type: Reviews
+  - type: Review
     url: https://www.talkspace.com/online-therapy/reviews
   - type: Blog
     url: https://www.talkspace.com/blog
@@ -85,7 +85,7 @@ common:
     url: https://www.talkspace.com/careers
   - type: PrivacyPolicy
     url: https://www.talkspace.com/public/privacy-policy
-  - type: TermsOfUse
+  - type: TermsOfService
     url: https://www.talkspace.com/public/terms
   - type: Twitter
     url: https://twitter.com/talkspace
