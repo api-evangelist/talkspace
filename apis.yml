@@ -25,6 +25,17 @@ description: >-
   EAPs, and benefits platforms are delivered through private partnership
   channels, and the platform is HIPAA, HITECH, and GDPR compliant.
 type: Index
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
