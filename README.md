@@ -1,4 +1,4 @@
-# talkspace
+# Talkspace
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,4 +64,82 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Talkspace — online therapy, psychiatry, and behavioral health (NASDAQ: TALK)
+Talkspace is a New York City-based online behavioral healthcare company founded in 2012 by Oren Frank and Roni Frank that delivers virtual therapy, psychiatry, and medication management through video, voice, messaging, and live chat. The platform connects users with licensed therapists and psychiatric providers across all 50 U.S. states, covering more than 150 mental health conditions including anxiety, depression, ADHD, bipolar disorder, OCD, PTSD, insomnia, postpartum depression, and substance use. Service lines include individual therapy for adults, teen therapy (ages 13-17), couples therapy, psychiatry with prescription management, and specialized programs for LGBTQIA+, military/veteran, and senior populations, plus the women's mental health program Chapters. Talkspace is in-network with major payers such as Aetna, Anthem, Cigna, Optum, Blue Cross Blue Shield, TRICARE, and Medicare, and sells B2B solutions (Talkspace for Business) to employers, payers, benefit consultants, educational institutions, and government agencies. The company markets Precision Therapy, an internal machine-learning and NLP system used to match members to providers and surface clinical signal. Talkspace went public on NASDAQ under ticker TALK on June 23, 2021 via a SPAC merger with Hudson Executive Investment Corp, and was acquired by Universal Health Services on March 9, 2026. Talkspace does not publish a public developer API, SDK, or open-source repository; integrations with payers, EAPs, and benefits platforms are delivered through private partnership channels, and the platform is HIPAA, HITECH, and GDPR compliant.
+
+**Areas:** Behavioral Health · Mental Health · Online Therapy · Telehealth · Psychiatry · Medication Management · Teen Therapy · Couples Therapy · Employee Assistance · Health Insurance · HIPAA · Public Company
+
+## Talkspace on APIs.io
+
+Everything profiled for Talkspace is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/talkspace/](https://apis.io/providers/talkspace/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Talkspace Domain Security](https://apis.io/security/talkspace/talkspace-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://www.talkspace.com)
+- [Blog](https://www.talkspace.com/blog)
+- [Terms of service](https://www.talkspace.com/public/terms)
+- [Privacy policy](https://www.talkspace.com/public/privacy-policy)
+
+## API Evangelist rating
+
+**Kin Score 10.3** — minimal · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 2.4 |
+| Access clarity | 27.6 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 12.3** — Insurance
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/talkspace/](https://apis.io/providers/talkspace/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Talkspace: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/talkspace/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
